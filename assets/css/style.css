@@ -655,4 +655,8 @@ label[for="menu_box"] {
                                 .transform-translate-overflow {
                                     transform: translate(10%, -37%);
                                 }
+                                                                .transform-translate-overflow-2 {
+                                                                    transform: translate(-11%, -37%);
+                                                                }
+
 }
