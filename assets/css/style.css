@@ -126,6 +126,7 @@ label[for="menu_box"] {
     background: rgba(1, 0, 128, 1);
     padding: 11px 34px;
     border-radius: 4px;
+    border: 2px solid rgba(1, 0, 128, 1);
 }
 .inspitation-grid-box {
     display: grid;
